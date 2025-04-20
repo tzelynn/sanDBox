@@ -1,0 +1,8 @@
+pymilvus>=2.3.0
+pillow
+torch
+torchvision
+transformers
+matplotlib
+tqdm
+numpy
